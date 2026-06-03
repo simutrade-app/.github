@@ -2,8 +2,8 @@
   <table border="1">
     <tr>
       <td align="center" style="padding: 20px;">
-        <h3>📢 Domain & Email Migration Notice</h3>
-        <p>From <b>May 6th, 2026</b>, Simutrade will transition to new domains as <code>simutrade.app</code> will not be renewed:</p>
+        <h3>📢 Domain & Email Migration Complete</h3>
+        <p>As of <b>May 6th, 2026</b>, Simutrade has migrated off <code>simutrade.app</code> (not renewed) and is now served on the <code>faizath.com</code> domain family:</p>
         <p>🌐 <b>Website:</b> <a href="https://simutrade.faizath.com">simutrade.faizath.com</a> (formerly <i>simutrade.app</i>)<br>
         ⚙️ <b>API:</b> <a href="https://simutrade-api.faizath.com">simutrade-api.faizath.com</a> (formerly <i>api.simutrade.app</i>)<br>
         📧 <b>Email:</b> <a href="mailto:contact@simutrade.faizath.com">contact@simutrade.faizath.com</a> (formerly <i>contact@simutrade.app</i>)<br>
@@ -16,8 +16,8 @@
 </div>
 
 <div align="center">
-  <img src="assets/logo.png" alt="SimuTrade Logo" width="100%"/>
-  <h1 align="center">🚀 SimuTrade</h1>
+  <img src="assets/logo.png" alt="Simutrade Logo" width="100%"/>
+  <h1 align="center">🚀 Simutrade</h1>
   <h3 align="center">AI-Powered Trade Supply Chain Simulation Platform</h3>
   
   <p align="center">
@@ -25,18 +25,48 @@
   </p>
   
   <p align="center">
-    <a href="https://simutrade.app">🌐 Live Demo</a> •
-    <a href="https://api.simutrade.app">🔗 API</a> •
-    <a href="https://status.simutrade.app">📊 Status</a> •
+    <a href="https://simutrade.faizath.com">🌐 Live Demo</a> •
+    <a href="https://simutrade-api.faizath.com">🔗 API</a> •
+    <a href="https://status.faizath.com/status/simutrade">📊 Status</a> •
     <a href="#-competition-achievement">🏆 Achievement</a> •
-    <a href="#-repositories">📁 Repositories</a> •
+    <a href="#-repository-architecture">📁 Repositories</a> •
     <a href="#-tech-stacks">🛠️ Tech Stack</a>
   </p>
 </div>
 
-## 🌟 What is SimuTrade?
+## 🎬 Demo Video
 
-**SimuTrade** is a cutting-edge AI-powered platform that revolutionizes trade supply chain simulation and analysis. Built with modern web technologies, it provides businesses, traders, and analysts with powerful tools to simulate, analyze, and optimize global trade scenarios in real-time.
+<div align="center">
+  <a href="https://drive.google.com/file/d/14eXdPWHsSgBYRP-9KojyD9x7LFupAVNk/preview">
+    <img src="assets/Demo_Video_Placeholder.png" alt="Simutrade Demo Video" width="80%"/>
+  </a>
+  <p><em>▶️ Click to watch the Simutrade demo</em></p>
+</div>
+
+## 🌟 What is Simutrade?
+
+**Simutrade** is a cutting-edge AI-powered platform that revolutionizes trade supply chain simulation and analysis. Built with modern web technologies, it provides businesses, traders, and analysts with powerful tools to simulate, analyze, and optimize global trade scenarios in real-time.
+
+## 🎯 The Problem It Solves
+
+Global trade and supply-chain planning is **fragmented, slow, and difficult to model**. Before committing real capital, traders and small-to-medium enterprises (SMEs) struggle to answer basic questions: *Which route is cheapest? What tariffs and duties apply? How long will it take? What disrupts the journey?*
+
+- **Scattered information** — routes, costs, tariffs, and logistics data live across disconnected systems and spreadsheets.
+- **High barrier to entry** — professional trade-modeling tools are expensive and complex, leaving SMEs, students, and analysts underserved.
+- **No safe space to experiment** — there is no accessible "sandbox" to simulate a trade journey and compare scenarios before real money is on the line.
+- **Reactive, not predictive** — decisions are made without data-driven forecasting of risk, cost, and time.
+
+## 💡 How Simutrade Solves It
+
+Simutrade turns trade planning into an **interactive, AI-assisted simulation** — letting anyone model, compare, and optimize a trade journey in minutes instead of weeks:
+
+- **🤖 AI-Powered Simulation Engine** — model trade routes, costs, tariffs, and timelines and get instant, data-driven feedback on each scenario.
+- **🌍 Interactive Global Maps** — visualize trade flows and supply-chain networks in real time to understand the full journey at a glance.
+- **📊 Real-Time Analytics** — dashboards surface KPIs, sentiment, and trend forecasting so decisions are predictive rather than reactive.
+- **💬 AI Assistant (RAG)** — a Retrieval-Augmented Generation assistant answers trade questions and recommends optimal strategies in plain language.
+- **🎯 Mission-Based Strategy** — guided, goal-oriented workflows help users identify opportunities and de-risk their plans before committing.
+
+Together these make professional-grade trade simulation **accessible, fast, and affordable** for SMEs, analysts, students, and policy makers alike.
 
 ### ✨ Key Features
 
@@ -58,47 +88,74 @@
 
 ## 🏆 Competition Achievement
 
-### 🥇 Google APAC Solutions Challenge 2025 - Top 10 Finalist
+### 🌏 About the Google APAC Solution Challenge 2025
 
-**SimuTrade** was selected as a **Top 10 Finalist** in the prestigious **Google APAC Solutions Challenge 2025** hackathon! Our team **ITBebas** had the incredible opportunity to travel to the Philippines and present our solution at the Asian Development Bank Headquarters.
+The **[Google APAC Solution Challenge 2025](https://hack2skill.com/event/apacsolutionchallenge)** is Google's annual region-wide hackathon for students across the Asia-Pacific. Teams are challenged to build real-world solutions to problems aligned with the **United Nations Sustainable Development Goals (SDGs)** using Google technologies — and compete for a place among the region's top teams.
+
+**Simutrade was built specifically for this hackathon, under the *Trade* challenge topic** — addressing how technology can make global trade more accessible, efficient, and data-driven for businesses and emerging economies.
+
+### 🥇 Top 10 Finalist
+
+**Simutrade** was selected as a **Top 10 Finalist** in the prestigious **Google APAC Solution Challenge 2025**! Our team **ITBebas** had the incredible opportunity to travel to the Philippines and present our solution at the Asian Development Bank Headquarters.
 
 <div align="center">
   <img src="assets/Top_10_Google_APAC_Solutions_Challenge.webp" alt="Top 10 Google APAC Solutions Challenge" width="600"/>
-  <p><em>SimuTrade recognized as Top 10 Finalist in Google APAC Solutions Challenge 2025</em></p>
+  <p><em>Simutrade recognized as Top 10 Finalist in Google APAC Solutions Challenge 2025</em></p>
 </div>
 
 ### 🌟 Our Journey
 
 - **🏢 Google Philippines Office Visit**: Our team had the privilege of visiting Google's Philippines office, experiencing the innovative culture and meeting with Google engineers
-- **🏛️ Asian Development Bank Presentation**: We presented SimuTrade at the Asian Development Bank Headquarters, showcasing our AI-powered trade simulation platform to industry experts
+- **🏛️ Asian Development Bank Presentation**: We presented Simutrade at the Asian Development Bank Headquarters, showcasing our AI-powered trade simulation platform to industry experts
 - **🎯 Top 10 Achievement**: While we didn't reach the Top 3, being selected as a Top 10 finalist was an incredible honor and validation of our solution's potential
 - **🤝 Networking & Learning**: The experience provided invaluable networking opportunities and insights into the future of trade technology
 
 ### 📚 Competition Resources
 
-- **Official Competition**: [Google APAC Solutions Challenge 2025](https://vision.hack2skill.com/event/apacsolutionchallenge)
+- **Official Competition**: [Google APAC Solution Challenge 2025](https://hack2skill.com/event/apacsolutionchallenge)
 - **Archived Competition Page**: [Archive Version](https://archive.faizath.com/archive/1751469385.462976/index.html)
 
+### 📸 Journey Gallery
+
 <div align="center">
-  <img src="assets/Google_Philippines_Office_Visit.jpg" alt="Google Philippines Office Visit" width="400"/>
-  <img src="assets/Top_3_Awarding_at_Asian_Development_Bank.jpg" alt="Top 3 Awarding at Asian Development Bank" width="400"/>
-  <p><em>Our team at Google Philippines Office and the awarding ceremony at Asian Development Bank</em></p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="assets/Google_Philippines_Office_Visit.jpg" alt="Google Philippines Office Visit" width="100%"/>
+        <p><em>🏢 Our team visiting the Google Philippines Office</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="assets/Team_Introduction_at_Google_Philippines_Office.jpg" alt="Team Introduction at Google Philippines Office" width="100%"/>
+        <p><em>👋 Team introduction at the Google Philippines Office</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="assets/Simutrade_Booth_at_Asian_Development_Bank_HQ.jpg" alt="Simutrade Booth at Asian Development Bank HQ" width="100%"/>
+        <p><em>🛰️ The Simutrade booth at the Asian Development Bank HQ</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="assets/Top_3_Awarding_at_Asian_Development_Bank_HQ.jpg" alt="Awarding Ceremony at Asian Development Bank HQ" width="100%"/>
+        <p><em>🏆 The Top 3 awarding ceremony at the Asian Development Bank HQ</em></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-This achievement demonstrates SimuTrade's potential to revolutionize global trade simulation and its recognition by leading technology and development organizations.
+This achievement demonstrates Simutrade's potential to revolutionize global trade simulation and its recognition by leading technology and development organizations.
 
 ## 🏗️ Repository Architecture
 
-SimuTrade is built as a modular, microservices-based architecture with three main repositories:
+Simutrade is built as a modular, microservices-based architecture with three main repositories:
 
 ### 📱 Frontend Repository (This Repository)
 **Repository**: [simutrade-app/simutrade-fe](https://github.com/simutrade-app/simutrade-fe)  
-**Live URL**: [simutrade.app](https://simutrade.app)  
+**Live URL**: [simutrade.faizath.com](https://simutrade.faizath.com)  
 **Description**: Modern React-based user interface with TypeScript, featuring interactive dashboards, real-time maps, and AI-powered analytics.
 
 ### 🔧 API Backend Repository
 **Repository**: [simutrade-app/simutrade-api](https://github.com/simutrade-app/simutrade-api)  
-**Live URL**: [api.simutrade.app](https://api.simutrade.app)  
+**Live URL**: [simutrade-api.faizath.com](https://simutrade-api.faizath.com)  
 **Description**: RESTful API server handling business logic, data processing, user authentication, and real-time WebSocket communications.
 
 ### 🧠 AI & RAG Backend Repository
@@ -106,18 +163,32 @@ SimuTrade is built as a modular, microservices-based architecture with three mai
 **Description**: Specialized AI service providing machine learning models, natural language processing, trade pattern recognition, and intelligent recommendations using Retrieval-Augmented Generation (RAG) techniques.
 
 
-<p align="center">
-  <img src="assets/screenshots/1.png"/>
-  <img src="assets/screenshots/2.png"/>
-  <img src="assets/screenshots/3.png"/>
-  <img src="assets/screenshots/4.png"/>
-  <img src="assets/screenshots/5.png"/>
-  <img src="assets/screenshots/6.png"/>
-  <img src="assets/screenshots/7.png"/>
-  <img src="assets/screenshots/8.png"/>
-  <img src="assets/screenshots/9.png"/>
-  <img src="assets/screenshots/10.png"/>
-</p>
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%"><img src="assets/screenshots/1.png" width="100%"/></td>
+      <td width="50%"><img src="assets/screenshots/2.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="assets/screenshots/3.png" width="100%"/></td>
+      <td width="50%"><img src="assets/screenshots/4.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="assets/screenshots/5.png" width="100%"/></td>
+      <td width="50%"><img src="assets/screenshots/6.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="assets/screenshots/7.png" width="100%"/></td>
+      <td width="50%"><img src="assets/screenshots/8.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="assets/screenshots/9.png" width="100%"/></td>
+      <td width="50%"><img src="assets/screenshots/10.png" width="100%"/></td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Tech Stacks
 
@@ -227,21 +298,21 @@ SimuTrade is built as a modular, microservices-based architecture with three mai
 
 ### 🌐 Production Deployment
 
-The application is automatically deployed to [simutrade.app](https://simutrade.app) using modern CI/CD pipelines with:
+The application is automatically deployed to [simutrade.faizath.com](https://simutrade.faizath.com) using modern CI/CD pipelines with:
 - **Frontend**: Cloudflare Pages deployment
-- **API Backend**: [api.simutrade.app](https://api.simutrade.app)
+- **API Backend**: [simutrade-api.faizath.com](https://simutrade-api.faizath.com)
 - **AI Services**: Integrated with the main platform
 
 ### 📊 System Status
 
-Monitor the real-time status of all SimuTrade services:
-- **Status Page**: [status.simutrade.app](https://status.simutrade.app/)
+Monitor the real-time status of all Simutrade services:
+- **Status Page**: [status.faizath.com/status/simutrade](https://status.faizath.com/status/simutrade)
 - **Services Monitored**:
-  - 🌐 SimuTrade Web (simutrade.app)
-  - 🔗 SimuTrade API (api.simutrade.app)
-  - 🤖 SimuTrade AI
-  - 🗄️ SimuTrade MongoDB
-  - 📡 SimuTrade CDN (cdn.simutrade.app)
+  - 🌐 Simutrade Web (simutrade.faizath.com)
+  - 🔗 Simutrade API (simutrade-api.faizath.com)
+  - 🤖 Simutrade AI
+  - 🗄️ Simutrade MongoDB
+  - 📡 Simutrade CDN (simutrade-cdn.faizath.com)
 
 ## 🤝 Contributing
 
@@ -278,12 +349,13 @@ We welcome contributions from the community! Here's how you can help:
 - **Vite Team** for the lightning-fast build tool
 - **Tailwind CSS** for the utility-first CSS framework
 - **Radix UI** for accessible component primitives
-- **All Contributors** who help make SimuTrade better
+- **All Contributors** who help make Simutrade better
 
 ## 📞 Support & Contact
 
-- **Website**: [simutrade.app](https://simutrade.app)
-- **API Documentation**: [api.simutrade.app](https://api.simutrade.app)
+- **Website**: [simutrade.faizath.com](https://simutrade.faizath.com)
+- **API Documentation**: [simutrade-api.faizath.com](https://simutrade-api.faizath.com)
+- **Email**: [contact@simutrade.faizath.com](mailto:contact@simutrade.faizath.com)
 - **Issues**: [GitHub Issues](https://github.com/simutrade-app/simutrade-fe/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/simutrade-app/simutrade-fe/discussions)
 
@@ -294,9 +366,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the SimuTrade Team</p>
+  <p>Made with ❤️ by the Simutrade Team</p>
   <p>
-    <a href="https://simutrade.app">🌐 Visit SimuTrade</a> •
+    <a href="https://simutrade.faizath.com">🌐 Visit Simutrade</a> •
     <a href="https://github.com/simutrade-app">👥 Our Organization</a> •
     <a href="https://github.com/simutrade-app/simutrade-fe/stargazers">⭐ Star this repo</a>
   </p>
