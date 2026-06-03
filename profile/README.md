@@ -253,67 +253,6 @@ Simutrade is built as a modular, microservices-based architecture with three mai
 | **clsx** | Styling | Utility for conditionally joining classNames |
 | **React Router DOM** | Routing | Standard routing library for React navigation |
 
-## ⚙️ Installation & Setup
-
-### 🚀 Quick Start
-
-1. **Clone the Frontend Repository**
-   ```bash
-   git clone https://github.com/simutrade-app/simutrade-fe.git
-   cd simutrade-fe
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start Development Server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in Browser**
-   Navigate to `http://localhost:5173` to view the application.
-
-### 📋 Available Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server with hot reload |
-| `npm run build` | Build production-ready application |
-| `npm run preview` | Preview production build locally |
-| `npm run lint` | Run ESLint for code quality checks |
-| `npm run lint:fix` | Auto-fix ESLint issues |
-| `npm run format` | Format code with Prettier |
-| `npm run test` | Run Jest test suite |
-| `npm run test:watch` | Run tests in watch mode |
-| `npm run test:coverage` | Generate test coverage report |
-
-### 🔧 Development Requirements
-
-- **Node.js**: Version 18 or higher
-- **npm**: Version 8 or higher
-- **Modern Browser**: Chrome, Firefox, Safari, or Edge with ES6+ support
-
-### 🌐 Production Deployment
-
-The application is automatically deployed to [simutrade.faizath.com](https://simutrade.faizath.com) using modern CI/CD pipelines with:
-- **Frontend**: Cloudflare Pages deployment
-- **API Backend**: [simutrade-api.faizath.com](https://simutrade-api.faizath.com)
-- **AI Services**: Integrated with the main platform
-
-### 📊 System Status
-
-Monitor the real-time status of all Simutrade services:
-- **Status Page**: [status.faizath.com/status/simutrade](https://status.faizath.com/status/simutrade)
-- **Services Monitored**:
-  - 🌐 Simutrade Web (simutrade.faizath.com)
-  - 🔗 Simutrade API (simutrade-api.faizath.com)
-  - 🤖 Simutrade AI
-  - 🗄️ Simutrade MongoDB
-  - 📡 Simutrade CDN (simutrade-cdn.faizath.com)
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
