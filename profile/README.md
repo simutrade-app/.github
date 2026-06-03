@@ -148,19 +148,11 @@ This achievement demonstrates Simutrade's potential to revolutionize global trad
 
 Simutrade is built as a modular, microservices-based architecture with three main repositories:
 
-### 📱 Frontend Repository (This Repository)
-**Repository**: [simutrade-app/simutrade-fe](https://github.com/simutrade-app/simutrade-fe)  
-**Live URL**: [simutrade.faizath.com](https://simutrade.faizath.com)  
-**Description**: Modern React-based user interface with TypeScript, featuring interactive dashboards, real-time maps, and AI-powered analytics.
-
-### 🔧 API Backend Repository
-**Repository**: [simutrade-app/simutrade-api](https://github.com/simutrade-app/simutrade-api)  
-**Live URL**: [simutrade-api.faizath.com](https://simutrade-api.faizath.com)  
-**Description**: RESTful API server handling business logic, data processing, user authentication, and real-time WebSocket communications.
-
-### 🧠 AI & RAG Backend Repository
-**Repository**: [simutrade-app/simutrade-ai](https://github.com/simutrade-app/simutrade-ai)  
-**Description**: Specialized AI service providing machine learning models, natural language processing, trade pattern recognition, and intelligent recommendations using Retrieval-Augmented Generation (RAG) techniques.
+| Repository | GitHub | Deployment | Description |
+|------------|--------|------------|-------------|
+| 📱 **Frontend** (This Repository) | [simutrade-app/simutrade-fe](https://github.com/simutrade-app/simutrade-fe) | [simutrade.faizath.com](https://simutrade.faizath.com) | Modern React-based user interface with TypeScript, featuring interactive dashboards, real-time maps, and AI-powered analytics. |
+| 🔧 **API Backend** | [simutrade-app/simutrade-api](https://github.com/simutrade-app/simutrade-api) | [simutrade-api.faizath.com](https://simutrade-api.faizath.com) | RESTful API server handling business logic, data processing, user authentication, and real-time WebSocket communications. |
+| 🧠 **AI & RAG Backend** | [simutrade-app/simutrade-ai](https://github.com/simutrade-app/simutrade-ai) | _Integrated with platform_ | Specialized AI service providing machine learning models, natural language processing, trade pattern recognition, and intelligent recommendations using Retrieval-Augmented Generation (RAG) techniques. |
 
 
 ## 📸 Screenshots
